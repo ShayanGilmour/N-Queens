@@ -46,9 +46,8 @@ I got this idea from the structure of Segment Tree:
 This makes it like hydraulic press! It's slower, but it will penetrate through the hardest of problems! (Little bit exaggerated.)
 
 Here's it solve this problem for `n = 1000` (In 12 Minutes):
-
- 
-
-
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/12760574/130361012-17c47b2e-300b-4b02-a77f-dec548b1ea37.png" width="600" />
+</p>
 There solution (permutation) for `n = 1000` is present in the notebook.
 
