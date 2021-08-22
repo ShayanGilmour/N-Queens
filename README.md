@@ -2,13 +2,11 @@
 Solving N Queens problem by implementing Genetic/Memetic Algorithm with Python.
 
 Placing `n` queens in a `n*n` table in a way that no two threaten each other.
-
-
- 
-   
- 
-
-
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/12760574/130360378-91128b7d-dbc3-406f-9d9a-050cbeff0cc4.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/12760574/130360386-4a50a435-52b0-4883-a4ab-0390732d2e85.png" width="200" /> 
+  <img src="https://user-images.githubusercontent.com/12760574/130360388-be1eaf9a-df31-4e40-800c-3022bfaf6270.png" width="200" />
+</p>
 
 ### Input:
 Single integer `n`, indicating the size of the chess table.
@@ -41,10 +39,9 @@ At first level, it randomly generates some permutations, and let them evolve for
 At second and levels above, it randomly chooses from the previous level (just like first level, but instead of generating new permutations, it chooses from previous level.) And let them evolve a little bit but not much! And so on...
 
 I got this idea from the structure of Segment Tree:
-
-
-  
-
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/12760574/130359662-f19c6aea-e12b-41b0-88db-90404dd35358.png" width="600" />
+</p>
 
 This makes it like hydraulic press! It's slower, but it will penetrate through the hardest of problems! (Little bit exaggerated.)
 
