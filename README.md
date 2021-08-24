@@ -4,6 +4,7 @@ Solving N Queens problem by implementing Genetic/Memetic Algorithm with Python.
 Placing `n` queens in a `n*n` table in a way that no two threaten each other.
 <p float="left">
   <img src="https://user-images.githubusercontent.com/12760574/130360378-91128b7d-dbc3-406f-9d9a-050cbeff0cc4.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/12760574/130577098-fe2b5e2f-53f1-4ea1-bceb-2a9a9fd84bfe.png" width="200" /> 
   <img src="https://user-images.githubusercontent.com/12760574/130360386-4a50a435-52b0-4883-a4ab-0390732d2e85.png" width="200" /> 
   <img src="https://user-images.githubusercontent.com/12760574/130360388-be1eaf9a-df31-4e40-800c-3022bfaf6270.png" width="200" />
 </p>
