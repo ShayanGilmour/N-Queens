@@ -44,7 +44,7 @@ I got this idea from the structure of Segment Tree:
   <img src="https://user-images.githubusercontent.com/12760574/130359662-f19c6aea-e12b-41b0-88db-90404dd35358.png" width="600" />
 </p>
 
-This makes it like hydraulic press! It's slower, but it will penetrate through the hardest of problems! (Little bit exaggerated.)
+This makes it like hydraulic press! It's slower, but it will penetrate through the hardest of problems!
 
 Here's it solve this problem for `n = 1000` (In 12 Minutes):
 <p float="left">
